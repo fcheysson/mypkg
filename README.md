@@ -7,6 +7,8 @@
 
 [![Travis build
 status](https://travis-ci.org/fcheysson/mypkg.svg?branch=master)](https://travis-ci.org/fcheysson/mypkg)
+[![Codecov test
+coverage](https://codecov.io/gh/fcheysson/mypkg/branch/master/graph/badge.svg)](https://codecov.io/gh/fcheysson/mypkg?branch=master)
 <!-- badges: end -->
 
 The goal of mypkg is to AMAAAAAAAAZING GRAAAAAAACE\!\!\!\!\!

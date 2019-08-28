@@ -6,6 +6,7 @@
 ## usethis namespace: start
 #' @useDynLib mypkg, .registration = TRUE
 #' @importFrom Rcpp sourceCpp
+#' @importFrom nortest lillie.test
 ## usethis namespace: end
 NULL
 
